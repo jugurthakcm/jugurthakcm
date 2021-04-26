@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Jugurtha KACIMI
-- 👀 I’m interested in Web developement using the MERN Stack
-- 🌱 I’m currently learning GraphQL APIs
-<!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I’m Jugurtha KACIMI !
+***
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jugurthakcm?label=My%20Twitter&style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/jugurthakcm?label=My%20Github&style=social">
+
+
+A full stack developer specializing in JavaScript technologies. Self Taught Programmer with the technologies listed in the toolbox below.
+
+As a web developer, I enjoy turning my ideas into websites and using my creativity to design them.
+
+Being a passionate learner, I constantly explore different fields to strengthen my IT skills. Combining my multi-cultural background, IT knowledge, and energized personality, all together give me a unique solving problems perspective. That's why I’m excited to make a big impact at a high growth company.
 
 <!---
 jugurthakcm/jugurthakcm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
