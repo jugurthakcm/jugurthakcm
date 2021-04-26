@@ -13,6 +13,11 @@ Being a passionate learner, I constantly explore different fields to strengthen 
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="40px" /> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="40px" /> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="40px" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40px" /> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="40px" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40px" /> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40px" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="75px" /> <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="100px" /> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="30px" />
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="70px" /> <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" width="40px" /> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50px" />
 
+***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jugurthakcm&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jugurthakcm&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
