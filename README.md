@@ -1,7 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I’m Jugurtha KACIMI !
 ***
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jugurthakcm?label=My%20Twitter&style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/jugurthakcm?label=My%20Github&style=social">
-
 
 A full stack developer specializing in JavaScript technologies. Self Taught Programmer with the technologies listed in the toolbox below.
 
