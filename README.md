@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I’m Jugurtha KACIMI !
+### Hi there <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px"/>, I’m Jugurtha KACIMI !
 ***
 
 A full stack developer specializing in JavaScript technologies. Self Taught Programmer with the technologies listed in the toolbox below.
